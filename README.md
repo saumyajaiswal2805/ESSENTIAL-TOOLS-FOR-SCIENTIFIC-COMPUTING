@@ -50,4 +50,34 @@ Summarise findings:
 Highlighting the best-performing model and rationale.
 
 Stress the importance of thoughtful model selection and parameter tuning in machine learning.
-3.
+
+3. Heart Disease prediction using Machine Learning
+
+This focuses on understanding and comparing the performance of different machine learning models for predicting whether the patient has 10-year risk of future coronary heart disease (CHD) based on a given dataset. We will analyse Logistic Regression, Support Vector Machines (SVM), Decision Tree,  KNN and other relevant techniques.
+
+
+Instructions:
+
+Code Overview:
+
+Exploratory Data Analysis
+
+Feature Selection: for this use PCA 
+
+Feature Scaling:for this use PCA
+
+Test - Train Split
+
+Resampling
+
+Model Pipeline
+
+Modelling & Evaluation
+
+Apply model
+
+Contrasting the performance of the three models:
+
+Discussing strengths and weaknesses of  Logistic Regression, Support Vector Machines (SVM), Decision Tree,  KNN  for predicting Heart Disease.
+
+Identifying the most suitable model for the task based on accuracy and efficiency.
