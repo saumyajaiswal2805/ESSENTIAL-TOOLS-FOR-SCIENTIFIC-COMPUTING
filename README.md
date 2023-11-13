@@ -96,3 +96,5 @@ testing on the same, and report the accuracy/loss for the following cases.
 (c) Number of neurons in hidden layer = 5, learning rate = 0.0001 
 
 Using five and ten-fold cross validation for this purpose.
+
+# 5. Calculate the fold change, log2FC, Pvalue, Padjval, and Up/down regulated genes from the RNA sequencing data
